@@ -1,2 +1,3 @@
 # meu-primeiro-repositorio
-meu 1 repositorio
+meu Primeiro repositorio
+Primeira alteração de repositório.
